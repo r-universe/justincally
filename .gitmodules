@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "VicmapR"]
+	path = VicmapR
+	url = https://github.com/justincally/vicmapr
+	shallow = true
+	registered = true
